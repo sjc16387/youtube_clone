@@ -86,3 +86,8 @@ a {
     width:200px;
   }
 }
+
+.bg-image-cover {
+  background: rgb(0, 36, 31);
+  background: linear-gradient(196deg, rgba(0, 36, 31, 1) 0%, rgba(47, 47, 232, 1) 35%, rgba(192, 37, 176, 1) 100%);
+}
